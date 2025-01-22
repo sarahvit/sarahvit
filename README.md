@@ -1,4 +1,4 @@
-## Oi! eu sou a sarahvit.
+## Oi! eu sou a Sarah Vitória.
 
 - 🌱 Estudando C, CSS e HTML.
 - 😄 Ela/dela
