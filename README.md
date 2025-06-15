@@ -6,9 +6,6 @@
 ![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahvit&theme=radical&show_icons=true) 
 
 ##
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahvit&hide_progress=true)](https://github.com/sarahvit/github-readme-stats)
-##
 <div> 
  
   <a href="https://instagram.com/sarahvit" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
