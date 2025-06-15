@@ -1,10 +1,6 @@
 ## Oi! eu sou a Sarah Vitória.
 
-- 🌱 Estudando C, CSS e HTML.
-- 😄 Ela/dela
-
-![Sarah's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarahvit&theme=radical&show_icons=true) 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahvit&hide_progress=true)](https://github.com/sarahvit/github-readme-stats)
 ##
 <div> 
  
